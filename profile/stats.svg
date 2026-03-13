@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Denis Zhdanov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 85, Total Commits  (last year) : 249, Total PRs: 617, Total PRs Merged: 534, Merged PRs Percentage: 86.55, Total PRs Reviewed: 71, Total Issues: 110, Total Discussions Started: 6, Total Discussions Answered: 4, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 85, Total Commits  (last year) : 249, Total PRs: 617, Total PRs Merged: 534, Merged PRs Percentage: 86.55, Total PRs Reviewed: 71, Total Issues: 110, Total Discussions Started: 6, Total Discussions Answered: 4, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -297,7 +297,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >14</text>
+      >13</text>
     </g>
   </g>
     </svg>
